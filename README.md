@@ -11,6 +11,7 @@ For more information, please read [ThewApp/speedlify-actions#README](https://git
 1. Get this workflow by one of these:
    * Clone this repository
    * [Import repository](https://github.com/new/import) to your account by enter `https://github.com/ThewApp/speedlify-actions`
+   * [Use this repository as a template](https://github.com/ThewApp/speedlify-actions-vercel/generate)
    * Put [workflow file](.github/workflows/test-pages.yml) in your existing speedlify repository.
 
    Do **not** fork as GitHub Actions will not run on a forked repository.
