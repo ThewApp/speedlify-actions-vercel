@@ -1,0 +1,46 @@
+{
+  "url": "https://www.gatsbyjs.com/",
+  "requestedUrl": "https://www.gatsbyjs.com/",
+  "timestamp": 1599977454672,
+  "ranks": {
+    "hundos": 8,
+    "performance": 11,
+    "accessibility": 1,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.3.0",
+    "performance": 0.62,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 361
+  },
+  "firstContentfulPaint": 2569.98,
+  "speedIndex": 2762.3909911893397,
+  "largestContentfulPaint": 3295.371,
+  "totalBlockingTime": 912.7987670440689,
+  "cumulativeLayoutShift": 0.03710237630208333,
+  "timeToInteractive": 7731.824232955934,
+  "maxPotentialFirstInputDelay": 662.0000000000009,
+  "timeToFirstByte": 11.75,
+  "weight": {
+    "summary": "52 requests • 733 KiB",
+    "total": 751039,
+    "image": 99566,
+    "imageCount": 10,
+    "script": 476459,
+    "scriptCount": 21,
+    "document": 81813,
+    "font": 54876,
+    "fontCount": 3,
+    "stylesheet": 6109,
+    "stylesheetCount": 1,
+    "thirdParty": 93073,
+    "thirdPartyCount": 14
+  },
+  "axe": {
+    "passes": 1617,
+    "violations": 0
+  }
+}
