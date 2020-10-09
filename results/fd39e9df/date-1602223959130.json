@@ -1,0 +1,46 @@
+{
+  "url": "https://vuepress.vuejs.org/",
+  "requestedUrl": "https://vuepress.vuejs.org/",
+  "timestamp": 1602224220795,
+  "ranks": {
+    "hundos": 9,
+    "performance": 5,
+    "accessibility": 10,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.75,
+    "total": 352
+  },
+  "firstContentfulPaint": 1357.4410000000003,
+  "speedIndex": 1380.5979032405794,
+  "largestContentfulPaint": 2437.9750000000004,
+  "totalBlockingTime": 346.75599999999986,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3196.0450000000005,
+  "maxPotentialFirstInputDelay": 193,
+  "timeToFirstByte": 78.00400000000002,
+  "weight": {
+    "summary": "124 requests • 643 KiB",
+    "total": 658594,
+    "image": 183644,
+    "imageCount": 4,
+    "script": 123325,
+    "scriptCount": 12,
+    "document": 3358,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11873,
+    "stylesheetCount": 1,
+    "thirdParty": 54674,
+    "thirdPartyCount": 7
+  },
+  "axe": {
+    "passes": 187,
+    "violations": 3
+  }
+}
