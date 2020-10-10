@@ -1,0 +1,46 @@
+{
+  "url": "https://www.11ty.dev/",
+  "requestedUrl": "https://www.11ty.dev/",
+  "timestamp": 1602310417101,
+  "ranks": {
+    "hundos": 2,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1596.11,
+  "speedIndex": 1948.2055609565175,
+  "largestContentfulPaint": 1596.11,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0.09366224924723307,
+  "timeToInteractive": 1654.61,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 356.84,
+  "weight": {
+    "summary": "18 requests • 77 KiB",
+    "total": 79005,
+    "image": 20341,
+    "imageCount": 14,
+    "script": 7643,
+    "scriptCount": 1,
+    "document": 32176,
+    "font": 15550,
+    "fontCount": 1,
+    "stylesheet": 3295,
+    "stylesheetCount": 1,
+    "thirdParty": 15550,
+    "thirdPartyCount": 1
+  },
+  "axe": {
+    "passes": 696,
+    "violations": 0
+  }
+}
