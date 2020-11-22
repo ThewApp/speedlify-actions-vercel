@@ -1,0 +1,46 @@
+{
+  "url": "https://jekyllrb.com/",
+  "requestedUrl": "https://jekyllrb.com/",
+  "timestamp": 1606025664173,
+  "ranks": {
+    "hundos": 2,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 398
+  },
+  "firstContentfulPaint": 1053.005,
+  "speedIndex": 1053.005,
+  "largestContentfulPaint": 2282.9260000000004,
+  "totalBlockingTime": 152,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2282.9260000000004,
+  "maxPotentialFirstInputDelay": 158,
+  "timeToFirstByte": 5.391999999999998,
+  "weight": {
+    "summary": "10 requests • 195 KiB",
+    "total": 200173,
+    "image": 72535,
+    "imageCount": 3,
+    "script": 63580,
+    "scriptCount": 2,
+    "document": 3626,
+    "font": 46521,
+    "fontCount": 2,
+    "stylesheet": 13847,
+    "stylesheetCount": 1,
+    "thirdParty": 63644,
+    "thirdPartyCount": 3
+  },
+  "axe": {
+    "passes": 242,
+    "violations": 6
+  }
+}
