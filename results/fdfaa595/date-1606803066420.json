@@ -1,0 +1,46 @@
+{
+  "url": "https://docsify.js.org/",
+  "requestedUrl": "https://docsify.js.org/",
+  "timestamp": 1606803150553,
+  "ranks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 11,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.83,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 353
+  },
+  "firstContentfulPaint": 2293.531,
+  "speedIndex": 2293.531,
+  "largestContentfulPaint": 4245.7029999999995,
+  "totalBlockingTime": 129.00000000000023,
+  "cumulativeLayoutShift": 0.04947914462619357,
+  "timeToInteractive": 3838.6070000000004,
+  "maxPotentialFirstInputDelay": 86,
+  "timeToFirstByte": 21.543000000000003,
+  "weight": {
+    "summary": "61 requests • 293 KiB",
+    "total": 299907,
+    "image": 34839,
+    "imageCount": 12,
+    "script": 104834,
+    "scriptCount": 14,
+    "document": 2345,
+    "font": 52571,
+    "fontCount": 4,
+    "stylesheet": 13257,
+    "stylesheetCount": 5,
+    "thirdParty": 224425,
+    "thirdPartyCount": 38
+  },
+  "axe": {
+    "passes": 398,
+    "violations": 19
+  }
+}
