@@ -1,0 +1,50 @@
+{
+  "url": "https://hexo.io/",
+  "requestedUrl": "https://hexo.io/",
+  "timestamp": 1610689549355,
+  "ranks": {
+    "hundos": 12,
+    "performance": 8,
+    "accessibility": 12,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "6.5.0",
+    "performance": 0.82,
+    "accessibility": 0.73,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 328
+  },
+  "firstContentfulPaint": 1978.262,
+  "speedIndex": 3418.1678073217254,
+  "largestContentfulPaint": 2203.2619999999997,
+  "totalBlockingTime": 477,
+  "cumulativeLayoutShift": 0.0003625233968098958,
+  "timeToInteractive": 6034.647999999999,
+  "maxPotentialFirstInputDelay": 216,
+  "timeToFirstByte": 9.289000000000001,
+  "weight": {
+    "summary": "37 requests • 710 KiB",
+    "total": 727115,
+    "image": 325375,
+    "imageCount": 9,
+    "script": 299604,
+    "scriptCount": 12,
+    "document": 21110,
+    "font": 57359,
+    "fontCount": 1,
+    "stylesheet": 16210,
+    "stylesheetCount": 4,
+    "thirdParty": 722886,
+    "thirdPartyCount": 36
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 422,
+    "violations": 25
+  }
+}
